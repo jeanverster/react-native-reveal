@@ -1,0 +1,45 @@
+{
+  "name": "react-native-reveal",
+  "version": "0.1.0",
+  "description": "Animated button that reveals extra content on press.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanverster/react-native-reveal.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ui",
+    "reveal",
+    "animated",
+    "footer",
+    "button"
+  ],
+  "author": "Jean Verster <jeanverster0107@gmail.com> (https://github.com/jeanverster)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanverster/react-native-reveal/issues"
+  },
+  "homepage": "https://github.com/jeanverster/react-native-reveal#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.17",
+    "eslint-config-prettier": "^2.3.0",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-prettier": "^2.1.2",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react-native": "^2.3.2",
+    "prettier": "^1.5.3",
+    "react": "16.0.0-alpha.12",
+    "react-native": "~0.45.1"
+  }
+}
